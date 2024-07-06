@@ -1,0 +1,73 @@
+MenuID,Cuisine,Main,Starter,Dessert,Drink,Side
+M1,Greek,Greek salad,Falafel,Greek yoghurt,Athens White wine,Tapas
+M10,Greek,Kabasa,Minestrone,Turkish yoghurt,Ankara White Wine,Meatballs
+M11,Greek,Kabasa,Olives,Turkish yoghurt,Ankara White Wine,Meatballs
+M12,Greek,Kabasa,Tomato bread,Turkish yoghurt,Ankara White Wine,Meatballs
+M13,Greek,Pizza,Falafel,Cheesecake,Italian Coffee,Bruschetta
+M14,Greek,Pizza,Flatbread,Cheesecake,Italian Coffee,Bruschetta
+M15,Greek,Pizza,Hummus,Cheesecake,Italian Coffee,Bruschetta
+M16,Greek,Pizza,Minestrone,Cheesecake,Italian Coffee,Bruschetta
+M17,Greek,Pizza,Olives,Cheesecake,Italian Coffee,Bruschetta
+M18,Greek,Pizza,Tomato bread,Cheesecake,Italian Coffee,Bruschetta
+M19,Italian,Bean soup,Falafel,Ice cream,Corfu Red Wine,Potato salad
+M2,Greek,Greek salad,Flatbread,Greek yoghurt,Athens White wine,Tapas
+M20,Italian,Bean soup,Flatbread,Ice cream,Corfu Red Wine,Potato salad
+M21,Italian,Bean soup,Hummus,Ice cream,Corfu Red Wine,Potato salad
+M22,Italian,Bean soup,Minestrone,Ice cream,Corfu Red Wine,Potato salad
+M23,Italian,Bean soup,Olives,Ice cream,Corfu Red Wine,Potato salad
+M24,Italian,Bean soup,Tomato bread,Ice cream,Corfu Red Wine,Potato salad
+M25,Italian,Carbonara,Falafel,Affogato,Roma Red wine,Focaccia
+M26,Italian,Carbonara,Flatbread,Affogato,Roma Red wine,Focaccia
+M27,Italian,Carbonara,Hummus,Affogato,Roma Red wine,Focaccia
+M28,Italian,Carbonara,Minestrone,Affogato,Roma Red wine,Focaccia
+M29,Italian,Carbonara,Olives,Affogato,Roma Red wine,Focaccia
+M3,Greek,Greek salad,Hummus,Greek yoghurt,Athens White wine,Tapas
+M30,Italian,Carbonara,Tomato bread,Affogato,Roma Red wine,Focaccia
+M31,Italian,Greek salad,Falafel,Greek yoghurt,Athens White wine,Tapas
+M32,Italian,Greek salad,Flatbread,Greek yoghurt,Athens White wine,Tapas
+M33,Italian,Greek salad,Hummus,Greek yoghurt,Athens White wine,Tapas
+M34,Italian,Greek salad,Minestrone,Greek yoghurt,Athens White wine,Tapas
+M35,Italian,Greek salad,Olives,Greek yoghurt,Athens White wine,Tapas
+M36,Italian,Greek salad,Tomato bread,Greek yoghurt,Athens White wine,Tapas
+M37,Italian,Kabasa,Falafel,Turkish yoghurt,Ankara White Wine,Meatballs
+M38,Italian,Kabasa,Flatbread,Turkish yoghurt,Ankara White Wine,Meatballs
+M39,Italian,Kabasa,Hummus,Turkish yoghurt,Ankara White Wine,Meatballs
+M4,Greek,Greek salad,Minestrone,Greek yoghurt,Athens White wine,Tapas
+M40,Italian,Kabasa,Minestrone,Turkish yoghurt,Ankara White Wine,Meatballs
+M41,Italian,Kabasa,Olives,Turkish yoghurt,Ankara White Wine,Meatballs
+M42,Italian,Kabasa,Tomato bread,Turkish yoghurt,Ankara White Wine,Meatballs
+M43,Italian,Pizza,Falafel,Cheesecake,Italian Coffee,Bruschetta
+M44,Italian,Pizza,Flatbread,Cheesecake,Italian Coffee,Bruschetta
+M45,Italian,Pizza,Hummus,Cheesecake,Italian Coffee,Bruschetta
+M46,Italian,Pizza,Minestrone,Cheesecake,Italian Coffee,Bruschetta
+M47,Italian,Pizza,Olives,Cheesecake,Italian Coffee,Bruschetta
+M48,Italian,Pizza,Tomato bread,Cheesecake,Italian Coffee,Bruschetta
+M49,Italian,Shwarma,Falafel,Baklava,Turkish Coffee,Fries
+M5,Greek,Greek salad,Olives,Greek yoghurt,Athens White wine,Tapas
+M50,Italian,Shwarma,Flatbread,Baklava,Turkish Coffee,Fries
+M51,Italian,Shwarma,Hummus,Baklava,Turkish Coffee,Fries
+M52,Italian,Shwarma,Minestrone,Baklava,Turkish Coffee,Fries
+M53,Italian,Shwarma,Olives,Baklava,Turkish Coffee,Fries
+M54,Italian,Shwarma,Tomato bread,Baklava,Turkish Coffee,Fries
+M55,Turkish,Bean soup,Falafel,Ice cream,Corfu Red Wine,Potato salad
+M56,Turkish,Bean soup,Flatbread,Ice cream,Corfu Red Wine,Potato salad
+M57,Turkish,Bean soup,Hummus,Ice cream,Corfu Red Wine,Potato salad
+M58,Turkish,Bean soup,Minestrone,Ice cream,Corfu Red Wine,Potato salad
+M59,Turkish,Bean soup,Olives,Ice cream,Corfu Red Wine,Potato salad
+M6,Greek,Greek salad,Tomato bread,Greek yoghurt,Athens White wine,Tapas
+M60,Turkish,Bean soup,Tomato bread,Ice cream,Corfu Red Wine,Potato salad
+M61,Turkish,Carbonara,Falafel,Affogato,Roma Red wine,Focaccia
+M62,Turkish,Carbonara,Flatbread,Affogato,Roma Red wine,Focaccia
+M63,Turkish,Carbonara,Hummus,Affogato,Roma Red wine,Focaccia
+M64,Turkish,Carbonara,Minestrone,Affogato,Roma Red wine,Focaccia
+M65,Turkish,Carbonara,Olives,Affogato,Roma Red wine,Focaccia
+M66,Turkish,Carbonara,Tomato bread,Affogato,Roma Red wine,Focaccia
+M67,Turkish,Shwarma,Falafel,Baklava,Turkish Coffee,Fries
+M68,Turkish,Shwarma,Flatbread,Baklava,Turkish Coffee,Fries
+M69,Turkish,Shwarma,Hummus,Baklava,Turkish Coffee,Fries
+M7,Greek,Kabasa,Falafel,Turkish yoghurt,Ankara White Wine,Meatballs
+M70,Turkish,Shwarma,Minestrone,Baklava,Turkish Coffee,Fries
+M71,Turkish,Shwarma,Olives,Baklava,Turkish Coffee,Fries
+M72,Turkish,Shwarma,Tomato bread,Baklava,Turkish Coffee,Fries
+M8,Greek,Kabasa,Flatbread,Turkish yoghurt,Ankara White Wine,Meatballs
+M9,Greek,Kabasa,Hummus,Turkish yoghurt,Ankara White Wine,Meatballs
